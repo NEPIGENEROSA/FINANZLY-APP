@@ -15,7 +15,8 @@ La app no solo muestra cuadritos; controla que no te salgas de la línea. Visual
 Un panel visual (estilo Dark Mode Pro) con gráficos circulares dinámicos que clasifican tus movimientos en: Gastos Fijos, Ocio, Alimentación, Salud e Inversión.
 
 ## Mejoras Futuras y Escalabilidad
-## Sincronización Bancaria: Clasificación automática de movimientos de tarjeta.
+## Sincronización Bancaria:
+Clasificación automática de movimientos de tarjeta.
 
 ## Sistema de Semáforos: 
 Notificaciones push inmediatas: "¡Cuidado! Has gastado el 80% de tu presupuesto de ocio y solo estamos a día 10".
