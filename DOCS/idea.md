@@ -1,17 +1,20 @@
-# Idea del Proyecto: Finanzly AI
+🚀 Proyecto: Finanzly AI – Smart Financial Guardian
+Problema que resuelve
+La mayoría de los jóvenes no fracasa por no saber cuánto gana, sino por perder el control del flujo a mitad de mes. Existe una desconexión total entre el "plan ideal" y el gasto real, lo que genera ansiedad financiera y descubiertos bancarios.
 
-## Problema que resuelve
-Muchos jóvenes y estudiantes tienen dificultades para entender cómo distribuir sus ingresos mensuales de forma realista, lo que suele llevar a saldos negativos a final de mes.
+Propósito de Finanzly AI
+Finanzly AI es una plataforma inteligente de gestión financiera diseñada para estudiantes y jóvenes profesionales. A diferencia de un presupuesto estático, nuestra IA genera un plan de vida financiero y actúa como un monitor de seguridad.
 
-## Usuario Objetivo
-Estudiantes, recién graduados y jóvenes profesionales que necesitan una guía visual rápida para organizar sus finanzas.
+Funcionalidades Core (Lo que nos diferencia)
+Generador de Plan Vital: Basado en el salario, edad y estilo de vida (si eres de los que pide mucho Glovo o si prefieres el Gym), la app calcula cuánto debes gastar para no llegar a cero.
 
-## Funcionalidades Principales
-- **Cálculo de presupuesto**: Generación automática de categorías de gasto basada en el salario.
-- **Perfil de usuario**: Formulario para ajustar el plan según edad, tipo de trabajo y estilo de vida.
-- **Visualización Pro**: Dashboard con tarjetas visuales para identificar gastos prioritarios.
+Monitor de Desviación (Control Activo): La app no solo muestra cuadritos; controla que no te salgas de la línea. Visualiza en tiempo real si tu gasto en ocio o salud está "comiéndose" tu capacidad de ahorro mensual.
 
-## Funcionalidades Opcionales y Mejoras Futuras
-- **Persistencia en Base de Datos**: Guardar históricos de presupuestos.
-- **Exportación**: Generar reportes en PDF.
-- **Notificaciones**: Alertas cuando un gasto supera el porcentaje recomendado.
+Dashboard Predictivo: Un panel visual (estilo Dark Mode Pro) con gráficos circulares dinámicos que clasifican tus movimientos en: Gastos Fijos, Ocio, Alimentación, Salud e Inversión.
+
+Mejoras Futuras y Escalabilidad
+Sincronización Bancaria: Clasificación automática de movimientos de tarjeta.
+
+Sistema de Semáforos: Notificaciones push inmediatas: "¡Cuidado! Has gastado el 80% de tu presupuesto de ocio y solo estamos a día 10".
+
+IA de Optimización: Consejos personalizados para mover dinero de ocio a inversión según tu perfil de riesgo.
